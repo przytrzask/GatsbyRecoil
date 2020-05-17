@@ -7,5 +7,7 @@ export default () => (
     <h1>Home</h1>
     <p>Hello Minnesota!</p>
     <Link to="/about/">Learn about me &rarr;</Link>
+    <br />
+    <Link to="app">Recoil &rarr;</Link>
   </Layout>
 );
